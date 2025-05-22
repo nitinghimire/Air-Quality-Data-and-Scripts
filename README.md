@@ -3,10 +3,10 @@
 ## Where to look
 
 The foler structure is as follows:
-├───monthly-data
-└───scripts
-├───data-visualization
-└───predictive-models
+├───monthly-data  \
+└───scripts  \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├───data-visualization  \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└───predictive-models  \
 
 monthly-data directory contains the data of 1 month prior to the date specified in the filename. For example, in the influxdata_2025-04-05T13_21_36Z csv contains the data collected in 1 month from 2025-03-05 to 2025-04-05.
 
