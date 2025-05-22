@@ -3,6 +3,7 @@
 ## Where to look
 
 The foler structure is as follows:
+  \
 ├───monthly-data  \
 └───scripts  \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├───data-visualization  \
